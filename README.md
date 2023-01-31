@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@arpittttt](https://hashnode.com/@arpittttt)
 
-- 💬 Ask me about **JavaScript , Python , DSA , React , Django**
+- 💬 Ask me about **JavaScript , Python , DSA , React , Django , Node.js**
 
-- 📫 How to reach me **arpitsingh4488@gamil.com**
+- 📫 How to reach me **arpitsingh4488@gmail.com**
 
 - ⚡ Fun fact **Nothing**
 
